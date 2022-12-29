@@ -1,7 +1,7 @@
 # Gravity-Gloves
-This is a simple (buggy) Unity C# (SteamVR) implementation of the "Gravity Gloves" from Valve's Half-Life Alyx.
+This is an implementation of the "Gravity Gloves" from Valve's Half-Life Alyx in Unity using C# and the SteamVR API.
 
-Co-Author: Malik Zekri (https://github.com/TheShadowTiki)
+Co-Author: Hakim Zekri (https://github.com/HZekriDEV)
 
 # Demo
 https://user-images.githubusercontent.com/62521050/184021790-cee6f0f9-bbd1-4053-bf1b-6499cb5ac759.mp4
